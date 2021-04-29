@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Covid19 Status Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Covid19_Status_Tracker [Demo](https://covid19-statustracker.herokuapp.com/).
 
 ## Available Scripts
 
